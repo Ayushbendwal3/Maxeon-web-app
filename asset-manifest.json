@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Maxeon-web-app/static/css/main.e51430d2.chunk.css",
+    "main.css": "/Maxeon-web-app/static/css/main.9f70d7ce.chunk.css",
     "main.js": "/Maxeon-web-app/static/js/main.8ebeff96.chunk.js",
     "main.js.map": "/Maxeon-web-app/static/js/main.8ebeff96.chunk.js.map",
     "runtime-main.js": "/Maxeon-web-app/static/js/runtime-main.11c238c5.js",
@@ -9,10 +9,10 @@
     "static/js/2.888f46c0.chunk.js": "/Maxeon-web-app/static/js/2.888f46c0.chunk.js",
     "static/js/2.888f46c0.chunk.js.map": "/Maxeon-web-app/static/js/2.888f46c0.chunk.js.map",
     "index.html": "/Maxeon-web-app/index.html",
-    "precache-manifest.e8dec81ee44cdb93d41eb7e1a8d0fb8d.js": "/Maxeon-web-app/precache-manifest.e8dec81ee44cdb93d41eb7e1a8d0fb8d.js",
+    "precache-manifest.140624badc49d9de011f6983f4681442.js": "/Maxeon-web-app/precache-manifest.140624badc49d9de011f6983f4681442.js",
     "service-worker.js": "/Maxeon-web-app/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Maxeon-web-app/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.e51430d2.chunk.css.map": "/Maxeon-web-app/static/css/main.e51430d2.chunk.css.map",
+    "static/css/main.9f70d7ce.chunk.css.map": "/Maxeon-web-app/static/css/main.9f70d7ce.chunk.css.map",
     "static/js/2.888f46c0.chunk.js.LICENSE.txt": "/Maxeon-web-app/static/js/2.888f46c0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Maxeon-web-app/static/media/Banner.4a6ebd5a.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.11c238c5.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.888f46c0.chunk.js",
-    "static/css/main.e51430d2.chunk.css",
+    "static/css/main.9f70d7ce.chunk.css",
     "static/js/main.8ebeff96.chunk.js"
   ]
 }

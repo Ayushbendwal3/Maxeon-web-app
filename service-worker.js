@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Maxeon-web-app/precache-manifest.e8dec81ee44cdb93d41eb7e1a8d0fb8d.js"
+  "/Maxeon-web-app/precache-manifest.140624badc49d9de011f6983f4681442.js"
 );
 
 self.addEventListener('message', (event) => {

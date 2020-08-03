@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "878e378083b9deb7193787ba3319769e",
+    "revision": "b2834095b3177d6e5fbdf0ea7caa5a3a",
     "url": "/Maxeon-web-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Maxeon-web-app/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "8f8e07673f565707b24a",
-    "url": "/Maxeon-web-app/static/css/main.e51430d2.chunk.css"
+    "revision": "115c13234c28fcc611a7",
+    "url": "/Maxeon-web-app/static/css/main.9f70d7ce.chunk.css"
   },
   {
     "revision": "9816e0195f5ac7a0e848",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Maxeon-web-app/static/js/2.888f46c0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f8e07673f565707b24a",
+    "revision": "115c13234c28fcc611a7",
     "url": "/Maxeon-web-app/static/js/main.8ebeff96.chunk.js"
   },
   {
