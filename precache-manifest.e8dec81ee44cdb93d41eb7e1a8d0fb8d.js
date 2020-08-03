@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19dd204be757ae597ae1dc2775569675",
+    "revision": "878e378083b9deb7193787ba3319769e",
     "url": "/Maxeon-web-app/index.html"
   },
   {
